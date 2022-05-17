@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Drayved
-- 👀 I’m interested in becoming a software developer or data scientist.
+- 👀 I’m interested in becoming a Software Developer or Data Scientist.
 - 🌱 I’m currently learning Python, SQL, HTML, CSS, Javascript, C
 - 📫 How to reach me: dril112191@gmail.com
 
