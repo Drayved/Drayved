@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in becoming a Frontend Developer.
-- 🌱 I’m currently expanding my knowledge in Javascript and React.
+- 👀 I’m a Frontend Developer
+- 🌱 I’m currently expanding my knowledge in Javascript and React by making several personal projects.
 - 📫 How to reach me: David.Riley.Dev@gmail.com
 
 <!---
