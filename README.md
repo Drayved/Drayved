@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GameSaver](https://github.com/Drayved/GameSaver)
 
-- 🌱 I’m currently learning **Typescript, React, Firebase, and getting a better grasp on GitHub**
+- 🌱 I’m currently learning **Typescript, FireBase**
 
 - 👯 I’m looking to collaborate on **Any Frontend project**
 
