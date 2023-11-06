@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drayved&label=Profile%20views&color=0e75b6&style=flat" alt="drayved" /> </p>
 
-- 🔭 I’m currently working on [GameSaver](https://github.com/Drayved/GameSaver)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/Drayved/Portfolio)
 
-- 🌱 I’m currently learning **Typescript, FireBase**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **Any Frontend project**
 
-- 👨‍💻 All of my projects are available at [https://davids-frontend-portfolio.netlify.app, https://github.com/Drayved]
+- 👨‍💻 All of my projects are available at [https://davidriley.me, https://github.com/Drayved]
 
 - 📫 How to reach me **David.Riley.Dev@gmail.com**
 
-- 📄 Link to my resume [https://drive.google.com/file/d/1OatxY7fEvzzNHopGkyDwQ9xgVvEFz2r3/view?usp=sharing](https://drive.google.com/file/d/1itaxJ8iWC1OIofjELjFEEac3-PmifDBK/view?usp=sharing)
+- 📄 Link to my [resume](https://drive.google.com/file/d/1XRTq0z1twZzGAU4037Lt9AQh2O5w_zR2/view?usp=sharing)
 
 - ⚡ Fun fact **I code in dark mode exclusively, because light attracts bugs. 😅**
 
