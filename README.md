@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **David.Riley.Dev@gmail.com**
 
-- 📄 Link to my [resume](https://drive.google.com/file/d/1XRTq0z1twZzGAU4037Lt9AQh2O5w_zR2/view?usp=sharing)
+- 📄 Link to my [Resume](https://drive.google.com/file/d/1XRTq0z1twZzGAU4037Lt9AQh2O5w_zR2/view?usp=sharing)
 
 - ⚡ Fun fact **I code in dark mode exclusively, because light attracts bugs. 😅**
 
